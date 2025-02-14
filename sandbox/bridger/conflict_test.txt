@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change from branch-b
+=======
+Change from branch-a
+>>>>>>> branch-b
